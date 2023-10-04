@@ -8,16 +8,6 @@ editor_options:
 chunk_output_type:console
 ---
 
----
-title: "Exploring Quarto and Latex"
-author: "Grace Juan"
-format: pdf
-editor: visual
-number-sections: true
-editor_options: 
-  chunk_output_type: console
----
-
 # Integration by Substitution
 
 ::: {#htm:subrule}
